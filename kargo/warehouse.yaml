@@ -6,7 +6,7 @@ metadata:
 spec:
   subscriptions:
   - image:
-      repoURL: ghcr.io/hishamshaikha/guestbook
+      repoURL: me-central2-docker.pkg.dev/hisham-shaikha-p8zmzp/kargo/guestbook
       imageSelectionStrategy: SemVer
 
 ---

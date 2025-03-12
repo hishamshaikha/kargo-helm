@@ -6,7 +6,7 @@ metadata:
 spec:
   vars:
   - name: image
-    value: ghcr.io/hishamshaikha/guestbook
+    value: me-central2-docker.pkg.dev/hisham-shaikha-p8zmzp/kargo/guestbook
   - name: repoURL
     value: https://github.com/hishamshaikha/kargo-helm.git
   - name: branch
