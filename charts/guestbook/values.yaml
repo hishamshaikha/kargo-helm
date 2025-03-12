@@ -1,5 +1,5 @@
 image:
-  repository: ghcr.io/akuity/guestbook
+  repository: me-central2-docker.pkg.dev/hisham-shaikha-p8zmzp/kargo/guestbook
   pullPolicy: IfNotPresent
   tag: latest
 
