@@ -1,5 +1,5 @@
 image:
-  repository: ghcr.io/hishamshaikha/guestbook
+  repository: ghcr.io/akuity/guestbook
   pullPolicy: IfNotPresent
   tag: latest
 
