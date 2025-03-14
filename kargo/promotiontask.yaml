@@ -8,7 +8,7 @@ spec:
   - name: image
     value: me-central2-docker.pkg.dev/hisham-shaikha-p8zmzp/kargo/guestbook
   - name: repoURL
-    value: https://github.com/hishamshaikha/kargo-helm.git
+    value: git@github.com:hishamshaikha/kargo-helm.git
   - name: branch
     value: main
   - name: envPath
